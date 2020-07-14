@@ -1,0 +1,7 @@
+C:\Users\Guilherme\Desktop\Teste C#\Clinica\Clinica\bin\Debug\Clinica.exe.config
+C:\Users\Guilherme\Desktop\Teste C#\Clinica\Clinica\bin\Debug\Clinica.exe
+C:\Users\Guilherme\Desktop\Teste C#\Clinica\Clinica\bin\Debug\Clinica.pdb
+C:\Users\Guilherme\Desktop\Teste C#\Clinica\Clinica\obj\Debug\Clinica.csprojAssemblyReference.cache
+C:\Users\Guilherme\Desktop\Teste C#\Clinica\Clinica\obj\Debug\Clinica.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\Desktop\Teste C#\Clinica\Clinica\obj\Debug\Clinica.exe
+C:\Users\Guilherme\Desktop\Teste C#\Clinica\Clinica\obj\Debug\Clinica.pdb
